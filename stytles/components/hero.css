@@ -26,6 +26,7 @@
   font-size: var(--size-4xl);
   letter-spacing: 12px;
   line-height: 0.9;
+  user-select: none;
 }
 
 .hero__description {
