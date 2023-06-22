@@ -1,13 +1,13 @@
-import "../stytles/modern-normalize.css";
-import "../stytles/main.css";
-import "../stytles/components/header.css";
-import "../stytles/components/hero.css";
-import "../stytles/components/about.css";
-import "../stytles/components/footer.css";
-import "../stytles/components/contact.css";
-import "../stytles/components/mobile-nav.css";
-import "../stytles/components/animated-text.css";
-import "../stytles/utils.css";
+import "../styles/modern-normalize.css";
+import "../styles/main.css";
+import "../styles/components/header.css";
+import "../styles/components/hero.css";
+import "../styles/components/about.css";
+import "../styles/components/footer.css";
+import "../styles/components/contact.css";
+import "../styles/components/mobile-nav.css";
+import "../styles/components/animated-text.css";
+import "../styles/utils.css";
 
 import mobileNav from "./utils/mobile-nav";
 import lightMode from "./utils/light-mode";
