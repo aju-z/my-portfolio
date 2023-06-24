@@ -24,7 +24,7 @@
   color: var(--clr-slate400);
   text-transform: uppercase;
   font-size: var(--size-4xl);
-  letter-spacing: 12px;
+  letter-spacing: 14px;
   line-height: 0.9;
   user-select: none;
 }
